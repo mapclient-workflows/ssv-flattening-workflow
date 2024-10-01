@@ -1,0 +1,14 @@
+*
+!.gitignore
+!Apply_Fitted_Coordinates.conf
+!Copy_to_Output_Folder.conf
+!Generate_Flatmap_Sources.conf
+!Geometry_Fitter-settings.json
+!Geometry_Fitter.conf
+!Mesh_Projection.conf
+!Mesh_Rotation.conf
+!README.rst
+!SSV_Source.conf
+!VagusMarkerDatabase.conf
+!map-client-workflow.proj
+!map-client-workflow.proj.png

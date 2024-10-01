@@ -1,0 +1,33 @@
+{
+    "modelCoordinatesField": "coordinates",
+    "modelFitGroup": null,
+    "fibreField": null,
+    "flattenGroup": null,
+    "dataCoordinatesField": "marker_data_coordinates",
+    "markerGroup": "marker",
+    "diagnosticLevel": 0,
+    "fitterSteps": [
+        {
+            "_FitterStepConfig": true,
+            "groupSettings": {}
+        },
+        {
+            "_FitterStepAlign": true,
+            "groupSettings": {},
+            "alignGroups": false,
+            "alignMarkers": true,
+            "rotation": [
+                0.0009454777565426307,
+                -0.0003411276772023128,
+                0.0004472723244896905
+            ],
+            "scale": 0.9996065910616038,
+            "scaleProportion": 1.0,
+            "translation": [
+                0.5207262968700874,
+                0.5399639651693917,
+                0.4149225853802818
+            ]
+        }
+    ]
+}
