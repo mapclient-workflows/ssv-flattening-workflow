@@ -3,7 +3,7 @@
     "modelFitGroup": null,
     "fibreField": null,
     "flattenGroup": null,
-    "dataCoordinatesField": "marker_data_coordinates",
+    "dataCoordinatesField": "vagus coordinates",
     "markerGroup": "marker",
     "diagnosticLevel": 0,
     "fitterSteps": [
@@ -14,19 +14,37 @@
         {
             "_FitterStepAlign": true,
             "groupSettings": {},
-            "alignGroups": false,
+            "alignGroups": true,
             "alignMarkers": true,
             "rotation": [
-                0.0009454777565426307,
-                -0.0003411276772023128,
-                0.0004472723244896905
+                2.985056901112403,
+                3.28631260466841,
+                0.15692416280977567
             ],
-            "scale": 0.9996065910616038,
+            "scale": 0.0022672419746018373,
             "scaleProportion": 1.0,
             "translation": [
-                0.5207262968700874,
-                0.5399639651693917,
-                0.4149225853802818
+                -0.4913824033129724,
+                -0.6165557826672959,
+                3.324437764707777
+            ]
+        },
+        {
+            "_FitterStepAlign": true,
+            "groupSettings": {},
+            "alignGroups": false,
+            "alignMarkers": false,
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 500.0,
+            "scaleProportion": 1.0,
+            "translation": [
+                0.0,
+                0.0,
+                0.0
             ]
         }
     ]
