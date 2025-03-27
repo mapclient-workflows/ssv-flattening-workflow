@@ -16,17 +16,18 @@
             "groupSettings": {},
             "alignGroups": true,
             "alignMarkers": true,
+            "alignManually": false,
             "rotation": [
-                2.985056901112403,
-                3.28631260466841,
-                0.15692416280977567
+                0.7807010096858276,
+                3.097384857427998,
+                0.058217628353024214
             ],
-            "scale": 0.0022672419746018373,
+            "scale": 0.002002105524069185,
             "scaleProportion": 1.0,
             "translation": [
-                -0.4913824033129724,
-                -0.6165557826672959,
-                3.324437764707777
+                -0.27560817228396034,
+                0.2176592639879485,
+                3.030859730683935
             ]
         },
         {
@@ -34,6 +35,7 @@
             "groupSettings": {},
             "alignGroups": false,
             "alignMarkers": false,
+            "alignManually": true,
             "rotation": [
                 0.0,
                 0.0,
